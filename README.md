@@ -16,6 +16,9 @@ Please tell me when using for commercial purposes.
   
 Подскажите пожалуйста при использовании в коммерческих целях.
   
+CCDX_Auto_Login.py can work directly.
+In the future, I will add the voice broadcast function of network changes.
+I am new to Python, please advise me if you know how to make it play audio across dual platforms.
 
  知行合一，诚信至善。
  B站关注，在下羽坂。
